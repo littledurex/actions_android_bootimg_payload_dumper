@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.10.0.RKBCNXM/miui_VENUS_V12.5.10.0.RKBCNXM_50a37d53e4_11.0.zip
+  ROM_URL: https://hugeota.d.miui.com/21.8.11/miui_VENUS_21.8.11_e186243426_11.0.zip
   TZ: Asia/Shanghai
 
 jobs:
